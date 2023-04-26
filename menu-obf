@@ -1,0 +1,3 @@
+z="
+";Cz='/udp';Dz='udp-';Ez='menu';Bz='root';Fz='.sh';Az='cd /';
+eval "$Az$Bz$Cz$z$Dz$Ez$Fz"
